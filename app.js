@@ -1,4 +1,4 @@
-const saludos = require('./saludos.js');
+const {saludar, saludarHolaMundo} = require('./saludos.js');
 
-console.log(saludos.saludar('Joan'));
-console.log(saludos.saludarHolaMundo());
+console.log(saludar('Joan'));
+console.log(saludarHolaMundo());
