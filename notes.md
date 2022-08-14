@@ -72,3 +72,16 @@ Luego '.help' para ver que se puede hacer con REPL:
 ```
 .help
 ```
+### Modulos built-in (Incorporados)
+Módulos que puedes usar directamente al trabajar con NodeJS (Vienen instalados por default)
+Muy utiles para realizar tareas comunes al trabajar con NodeJS
+
+**Ejemplos**:
+1. http
+2. https
+3. fs (file system)
+4. os (operating sistem)
+5. path (Ubicación)
+
+#### Module Console
+Modulo built-in que implementa funcionalidad similar a la consola de un navegador web.
