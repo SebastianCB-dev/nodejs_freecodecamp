@@ -1,0 +1,12 @@
+{
+  "name": "mi-paquete",
+  "version": "1.0.0",
+  "description": "Mi primer paquete de Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "SebastianCB-dev",
+  "license": "ISC"
+}
