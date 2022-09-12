@@ -1,0 +1,11 @@
+POST http://localhost:9999/cursos/programacion HTTP/1.1
+
+###
+
+GET http://localhost:9999/cursos/programacion HTTP/1.1
+
+###
+PUT http://localhost:9999/cursos/programacion HTTP/1.1
+
+###
+GET http://localhost:9999/ HTTP/1.1
