@@ -8,6 +8,13 @@ let infoCursos = {
       nivel: 'Basico'
     },
     {
+      id: 1,
+      titulo: 'Aprende Python II',
+      lenguaje: 'Python',
+      vistas: 13000,
+      nivel: 'Basico'
+    },
+    {
       id: 2,
       titulo: 'Aprende curiosidades de Python',
       lenguaje: 'Python',

@@ -1,0 +1,23 @@
+{
+  "name": "Servidor con Node.JS",
+  "version": "1.0.0",
+  "description": "Server con Node.JS y express",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastianCB-dev/nodejs_freecodecamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SebastianCB-dev/nodejs_freecodecamp/issues"
+  },
+  "homepage": "https://github.com/SebastianCB-dev/nodejs_freecodecamp#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
